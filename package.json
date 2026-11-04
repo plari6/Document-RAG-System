@@ -1,0 +1,38 @@
+{
+  "name": "document-rag-system",
+  "version": "1.0.0",
+  "description": "Node.js CLI that lets support agents ask 200-page PDF manuals questions in plain language: hybrid search, Gemini embeddings and cited answers with a multi-model fallback.",
+  "type": "module",
+  "bin": {
+    "doc-rag": "bin/doc-rag.js"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test --test-reporter=spec \"test/**/*.test.js\"",
+    "demo": "node bin/doc-rag.js demo",
+    "doctor": "node bin/doc-rag.js doctor --ping",
+    "serve": "node bin/doc-rag.js serve",
+    "build:sample": "node examples/build-sample-manual.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "rag",
+    "pdf",
+    "semantic-search",
+    "gemini",
+    "embeddings",
+    "customer-support",
+    "knowledge-base",
+    "cli",
+    "llm-fallback"
+  ],
+  "author": "plari6",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^15.0.0",
+    "dotenv": "^18.0.9",
+    "pdf-parse": "^2.4.5"
+  }
+}

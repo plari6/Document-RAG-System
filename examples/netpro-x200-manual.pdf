@@ -1,0 +1,412 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R] /Count 14 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Title (NetPro X200 Wi-Fi 6 Router - User Manual) /Producer (doc-rag) >>
+endobj
+6 0 obj
+<< /Length 1226 >>
+stream
+BT
+/F2 26 Tf 1 0 0 1 56 748.3 Tm (NetPro X200) Tj
+/F1 16 Tf 1 0 0 1 56 725.1 Tm (Wi-Fi 6 Dual-Band Router) Tj
+/F1 11 Tf 1 0 0 1 56 709.1 Tm () Tj
+/F2 13 Tf 1 0 0 1 56 690.3 Tm (User Manual - Firmware 3.4) Tj
+/F1 11 Tf 1 0 0 1 56 674.3 Tm (Document number NP-X200-UM-EN, revision C. Applies to hardware versions 1.0 and 1.1.) Tj
+/F1 11 Tf 1 0 0 1 56 658.4 Tm () Tj
+/F2 13 Tf 1 0 0 1 56 639.5 Tm (Contents) Tj
+/F1 11 Tf 1 0 0 1 56 623.6 Tm (1 Safety Instructions ... 2) Tj
+/F1 11 Tf 1 0 0 1 56 607.6 Tm (2 Package Contents and Specifications ... 3) Tj
+/F1 11 Tf 1 0 0 1 56 591.7 Tm (3 LED Indicators and Buttons ... 4) Tj
+/F1 11 Tf 1 0 0 1 56 575.7 Tm (4 Installation and First Setup ... 5) Tj
+/F1 11 Tf 1 0 0 1 56 559.8 Tm (5 Wireless Settings ... 7) Tj
+/F1 11 Tf 1 0 0 1 56 543.8 Tm (6 Parental Controls and Guest Network ... 8) Tj
+/F1 11 Tf 1 0 0 1 56 527.9 Tm (7 Firmware Update ... 9) Tj
+/F1 11 Tf 1 0 0 1 56 511.9 Tm (8 Factory Reset ... 10) Tj
+/F1 11 Tf 1 0 0 1 56 496.0 Tm (9 Troubleshooting ... 11) Tj
+/F1 11 Tf 1 0 0 1 56 480.0 Tm (10 Error Codes ... 12) Tj
+/F1 11 Tf 1 0 0 1 56 464.1 Tm (11 Warranty and Support ... 13) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 1 of 14) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1171 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (1 Safety Instructions) Tj
+/F1 11 Tf 1 0 0 1 56 746.8 Tm (Read all instructions before installing the router. Keep this manual for future) Tj
+/F1 11 Tf 1 0 0 1 56 730.9 Tm (reference.) Tj
+/F1 11 Tf 1 0 0 1 56 714.9 Tm (Use only the 12 V / 1.5 A power adapter supplied in the box \(model PA-1215\). Using a) Tj
+/F1 11 Tf 1 0 0 1 56 699.0 Tm (different adapter can damage the router and voids the warranty.) Tj
+/F1 11 Tf 1 0 0 1 56 683.0 Tm (Operating temperature is 0 to 40 degrees Celsius. Do not place the router in direct) Tj
+/F1 11 Tf 1 0 0 1 56 667.1 Tm (sunlight, near a heater, or inside a closed metal cabinet.) Tj
+/F1 11 Tf 1 0 0 1 56 651.1 Tm (Keep at least 20 cm between the antennas and the body of any person during operation.) Tj
+/F1 11 Tf 1 0 0 1 56 635.2 Tm (Do not open the housing. There are no user-serviceable parts inside. Opening the) Tj
+/F1 11 Tf 1 0 0 1 56 619.2 Tm (housing voids the warranty.) Tj
+/F1 11 Tf 1 0 0 1 56 603.3 Tm (Unplug the router during lightning storms or when it will not be used for a long time.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 2 of 14) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1364 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (2 Package Contents and Specifications) Tj
+/F2 13 Tf 1 0 0 1 56 743.9 Tm (2.1 Package contents) Tj
+/F1 11 Tf 1 0 0 1 56 728.0 Tm (One NetPro X200 router, one 12 V power adapter \(PA-1215\), one 1.5 m Cat6 Ethernet) Tj
+/F1 11 Tf 1 0 0 1 56 712.0 Tm (cable, a quick installation guide and a warranty card.) Tj
+/F2 13 Tf 1 0 0 1 56 693.2 Tm (2.2 Technical specifications) Tj
+/F1 11 Tf 1 0 0 1 56 677.2 Tm (Wireless standard: IEEE 802.11ax \(Wi-Fi 6\), backward compatible with 802.11a/b/g/n/ac.) Tj
+/F1 11 Tf 1 0 0 1 56 661.3 Tm (Bands: 2.4 GHz up to 574 Mbps and 5 GHz up to 2402 Mbps \(AX3000 class\).) Tj
+/F1 11 Tf 1 0 0 1 56 645.3 Tm (Ports: one 2.5 Gbps WAN port, four 1 Gbps LAN ports and one USB 3.0 port for storage) Tj
+/F1 11 Tf 1 0 0 1 56 629.4 Tm (sharing.) Tj
+/F1 11 Tf 1 0 0 1 56 613.4 Tm (Processor: 1.5 GHz quad-core. Memory: 512 MB RAM, 256 MB flash.) Tj
+/F1 11 Tf 1 0 0 1 56 597.5 Tm (Security: WPA3-Personal, WPA2/WPA3 mixed mode, built-in firewall and automatic security) Tj
+/F1 11 Tf 1 0 0 1 56 581.5 Tm (updates.) Tj
+/F1 11 Tf 1 0 0 1 56 565.6 Tm (Maximum recommended number of connected devices: 64.) Tj
+/F1 11 Tf 1 0 0 1 56 549.6 Tm (Dimensions: 260 x 160 x 45 mm. Weight: 620 g. Power consumption: 18 W maximum.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 3 of 14) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1512 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (3 LED Indicators and Buttons) Tj
+/F2 13 Tf 1 0 0 1 56 743.9 Tm (3.1 Status LED) Tj
+/F1 11 Tf 1 0 0 1 56 728.0 Tm (Solid white: the router is working normally and is connected to the internet.) Tj
+/F1 11 Tf 1 0 0 1 56 712.0 Tm (Blinking white: the router is starting up or a firmware update is in progress. Do not) Tj
+/F1 11 Tf 1 0 0 1 56 696.1 Tm (unplug the router while the LED blinks white.) Tj
+/F1 11 Tf 1 0 0 1 56 680.1 Tm (Solid amber: the router is working but has no internet connection. See section 9.1.) Tj
+/F1 11 Tf 1 0 0 1 56 664.2 Tm (Blinking amber: WPS pairing is active \(up to 2 minutes\).) Tj
+/F1 11 Tf 1 0 0 1 56 648.2 Tm (Solid red: hardware fault or failed firmware update. See error code E-301 in section) Tj
+/F1 11 Tf 1 0 0 1 56 632.3 Tm (10.) Tj
+/F1 11 Tf 1 0 0 1 56 616.3 Tm (Off: no power. Check the adapter and the power switch on the back panel.) Tj
+/F2 13 Tf 1 0 0 1 56 597.5 Tm (3.2 Buttons) Tj
+/F1 11 Tf 1 0 0 1 56 581.5 Tm (Power button: turns the router on or off.) Tj
+/F1 11 Tf 1 0 0 1 56 565.6 Tm (WPS button: press for 2 seconds to start WPS pairing with a device.) Tj
+/F1 11 Tf 1 0 0 1 56 549.6 Tm (RESET button: recessed pin-hole on the back panel. A short press of 1 to 3 seconds) Tj
+/F1 11 Tf 1 0 0 1 56 533.7 Tm (restarts the router. Holding it for 10 seconds performs a factory reset \(see section) Tj
+/F1 11 Tf 1 0 0 1 56 517.7 Tm (8\).) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 4 of 14) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1358 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (4 Installation and First Setup) Tj
+/F2 13 Tf 1 0 0 1 56 743.9 Tm (4.1 Connecting the hardware) Tj
+/F1 11 Tf 1 0 0 1 56 728.0 Tm (1. Turn off your modem.) Tj
+/F1 11 Tf 1 0 0 1 56 712.0 Tm (2. Connect the blue WAN port of the router to the modem with the supplied Ethernet) Tj
+/F1 11 Tf 1 0 0 1 56 696.1 Tm (cable.) Tj
+/F1 11 Tf 1 0 0 1 56 680.1 Tm (3. Turn on the modem and wait 2 minutes.) Tj
+/F1 11 Tf 1 0 0 1 56 664.2 Tm (4. Connect the power adapter and press the power button. Wait until the status LED is) Tj
+/F1 11 Tf 1 0 0 1 56 648.2 Tm (solid white or solid amber \(about 90 seconds\).) Tj
+/F2 13 Tf 1 0 0 1 56 629.4 Tm (4.2 Setup with the NetPro app) Tj
+/F1 11 Tf 1 0 0 1 56 613.4 Tm (Install the NetPro Home app \(iOS 15 or later, Android 9 or later\). Connect your phone) Tj
+/F1 11 Tf 1 0 0 1 56 597.5 Tm (to the Wi-Fi network printed on the label on the bottom of the router \(default name) Tj
+/F1 11 Tf 1 0 0 1 56 581.5 Tm (NetPro-X200-XXXX, where XXXX are the last four characters of the MAC address\).) Tj
+/F1 11 Tf 1 0 0 1 56 565.6 Tm (Open the app, tap Add Device, and follow the instructions. The app detects the) Tj
+/F1 11 Tf 1 0 0 1 56 549.6 Tm (connection type automatically \(DHCP, PPPoE or static IP\).) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 5 of 14) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1403 >>
+stream
+BT
+/F2 13 Tf 1 0 0 1 56 767.1 Tm (4.3 Setup with a web browser) Tj
+/F1 11 Tf 1 0 0 1 56 751.2 Tm (Connect a computer to a LAN port or to the default Wi-Fi network. Open a browser and go) Tj
+/F1 11 Tf 1 0 0 1 56 735.2 Tm (to http://192.168.50.1 or http://netpro.home.) Tj
+/F1 11 Tf 1 0 0 1 56 719.3 Tm (The default administrator username is admin and the default password is printed on the) Tj
+/F1 11 Tf 1 0 0 1 56 703.3 Tm (label on the bottom of the router. You must change the administrator password during) Tj
+/F1 11 Tf 1 0 0 1 56 687.4 Tm (the first login.) Tj
+/F1 11 Tf 1 0 0 1 56 671.4 Tm (The setup wizard asks for the internet connection type. For PPPoE \(common for DSL and) Tj
+/F1 11 Tf 1 0 0 1 56 655.5 Tm (fiber\), enter the username and password provided by your internet service provider.) Tj
+/F2 13 Tf 1 0 0 1 56 636.6 Tm (4.4 Placement tips) Tj
+/F1 11 Tf 1 0 0 1 56 620.7 Tm (Place the router in a central, elevated and open location. Keep it at least 1 m away) Tj
+/F1 11 Tf 1 0 0 1 56 604.7 Tm (from microwaves, cordless phones and baby monitors, which use the 2.4 GHz band.) Tj
+/F1 11 Tf 1 0 0 1 56 588.8 Tm (Point the four external antennas straight up for the best coverage on a single floor.) Tj
+/F1 11 Tf 1 0 0 1 56 572.8 Tm (For multi-floor homes, angle two antennas at 45 degrees.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 6 of 14) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 1703 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (5 Wireless Settings) Tj
+/F2 13 Tf 1 0 0 1 56 743.9 Tm (5.1 Changing the Wi-Fi name and password) Tj
+/F1 11 Tf 1 0 0 1 56 728.0 Tm (In the web interface go to Wireless > Basic Settings. Enter a new network name \(SSID\)) Tj
+/F1 11 Tf 1 0 0 1 56 712.0 Tm (and a password of at least 8 characters, then click Save. All devices must reconnect) Tj
+/F1 11 Tf 1 0 0 1 56 696.1 Tm (with the new password.) Tj
+/F2 13 Tf 1 0 0 1 56 677.2 Tm (5.2 Smart Connect \(band steering\)) Tj
+/F1 11 Tf 1 0 0 1 56 661.3 Tm (Smart Connect is enabled by default. It uses one network name for both bands and moves) Tj
+/F1 11 Tf 1 0 0 1 56 645.3 Tm (devices to the best band automatically. To use separate names for 2.4 GHz and 5 GHz, go) Tj
+/F1 11 Tf 1 0 0 1 56 629.4 Tm (to Wireless > Smart Connect and turn it off.) Tj
+/F2 13 Tf 1 0 0 1 56 610.5 Tm (5.3 Channel and channel width) Tj
+/F1 11 Tf 1 0 0 1 56 594.6 Tm (Channel selection is Auto by default. If the connection is unstable in a crowded) Tj
+/F1 11 Tf 1 0 0 1 56 578.6 Tm (building, set the 2.4 GHz channel manually to 1, 6 or 11 and the channel width to 20) Tj
+/F1 11 Tf 1 0 0 1 56 562.7 Tm (MHz. For 5 GHz, a width of 80 MHz gives the best balance between speed and stability;) Tj
+/F1 11 Tf 1 0 0 1 56 546.7 Tm (160 MHz is faster but more sensitive to interference.) Tj
+/F2 13 Tf 1 0 0 1 56 527.9 Tm (5.4 Security mode) Tj
+/F1 11 Tf 1 0 0 1 56 511.9 Tm (The default security mode is WPA2/WPA3 mixed. Older devices that cannot connect may) Tj
+/F1 11 Tf 1 0 0 1 56 496.0 Tm (need WPA2-Personal \(AES\). Never use open or WEP security.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 7 of 14) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 1267 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (6 Parental Controls and Guest Network) Tj
+/F2 13 Tf 1 0 0 1 56 743.9 Tm (6.1 Guest network) Tj
+/F1 11 Tf 1 0 0 1 56 728.0 Tm (Go to Wireless > Guest Network and turn on the guest network for 2.4 GHz, 5 GHz or) Tj
+/F1 11 Tf 1 0 0 1 56 712.0 Tm (both. Guests get internet access but cannot see devices on your main network. You can) Tj
+/F1 11 Tf 1 0 0 1 56 696.1 Tm (limit guest access to 1, 4 or 24 hours, or set it to Always.) Tj
+/F2 13 Tf 1 0 0 1 56 677.2 Tm (6.2 Parental controls) Tj
+/F1 11 Tf 1 0 0 1 56 661.3 Tm (Go to Advanced > Parental Controls. Create a profile for each family member, assign) Tj
+/F1 11 Tf 1 0 0 1 56 645.3 Tm (their devices, then set daily time limits, bedtime schedules and content filters) Tj
+/F1 11 Tf 1 0 0 1 56 629.4 Tm (\(Child, Pre-teen, Teen or Adult\). Paused devices lose internet access immediately.) Tj
+/F2 13 Tf 1 0 0 1 56 610.5 Tm (6.3 Quality of Service \(QoS\)) Tj
+/F1 11 Tf 1 0 0 1 56 594.6 Tm (Adaptive QoS gives priority to video calls and gaming. Enable it under Advanced > QoS) Tj
+/F1 11 Tf 1 0 0 1 56 578.6 Tm (and enter your real upload and download speeds measured with a speed test.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 8 of 14) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 1291 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (7 Firmware Update) Tj
+/F1 11 Tf 1 0 0 1 56 746.8 Tm (NetPro releases firmware updates that add features and fix security issues. Automatic) Tj
+/F1 11 Tf 1 0 0 1 56 730.9 Tm (updates are enabled by default and run between 2:00 and 4:00 at night.) Tj
+/F2 13 Tf 1 0 0 1 56 712.0 Tm (7.1 Manual update) Tj
+/F1 11 Tf 1 0 0 1 56 696.1 Tm (1. Download the latest firmware file for the X200 from support.netpro.example/x200.) Tj
+/F1 11 Tf 1 0 0 1 56 680.1 Tm (Make sure the file name starts with X200_FW.) Tj
+/F1 11 Tf 1 0 0 1 56 664.2 Tm (2. In the web interface go to System > Firmware Upgrade and click Browse to select the) Tj
+/F1 11 Tf 1 0 0 1 56 648.2 Tm (file.) Tj
+/F1 11 Tf 1 0 0 1 56 632.3 Tm (3. Click Upgrade. The update takes about 4 minutes and the status LED blinks white.) Tj
+/F1 11 Tf 1 0 0 1 56 616.3 Tm (4. Do not turn off the router or close the browser during the update. Interrupting the) Tj
+/F1 11 Tf 1 0 0 1 56 600.4 Tm (update can damage the router \(error E-301\).) Tj
+/F1 11 Tf 1 0 0 1 56 584.4 Tm (Your settings are kept after a firmware update. Downgrading to a firmware older than) Tj
+/F1 11 Tf 1 0 0 1 56 568.5 Tm (3.0 is not supported.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 9 of 14) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 1296 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (8 Factory Reset) Tj
+/F1 11 Tf 1 0 0 1 56 746.8 Tm (A factory reset erases all settings, including the Wi-Fi name, passwords, parental) Tj
+/F1 11 Tf 1 0 0 1 56 730.9 Tm (control profiles and port forwarding rules, and restores the factory defaults printed) Tj
+/F1 11 Tf 1 0 0 1 56 714.9 Tm (on the label.) Tj
+/F2 13 Tf 1 0 0 1 56 696.1 Tm (8.1 Reset with the RESET button) Tj
+/F1 11 Tf 1 0 0 1 56 680.1 Tm (1. Make sure the router is powered on and the status LED is lit.) Tj
+/F1 11 Tf 1 0 0 1 56 664.2 Tm (2. Use a paper clip to press and hold the RESET button on the back panel for 10) Tj
+/F1 11 Tf 1 0 0 1 56 648.2 Tm (seconds, until the status LED blinks amber quickly.) Tj
+/F1 11 Tf 1 0 0 1 56 632.3 Tm (3. Release the button. The router restarts, which takes about 2 minutes.) Tj
+/F1 11 Tf 1 0 0 1 56 616.3 Tm (4. Set up the router again as described in section 4.) Tj
+/F2 13 Tf 1 0 0 1 56 597.5 Tm (8.2 Reset from the web interface) Tj
+/F1 11 Tf 1 0 0 1 56 581.5 Tm (Go to System > Backup and Restore and click Factory Default. Before resetting, you can) Tj
+/F1 11 Tf 1 0 0 1 56 565.6 Tm (click Save Settings to download a backup file and restore it later.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 10 of 14) Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 1740 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (9 Troubleshooting) Tj
+/F2 13 Tf 1 0 0 1 56 743.9 Tm (9.1 No internet connection \(status LED solid amber\)) Tj
+/F1 11 Tf 1 0 0 1 56 728.0 Tm (Restart the modem and then the router. Check that the cable is in the blue WAN port and) Tj
+/F1 11 Tf 1 0 0 1 56 712.0 Tm (not in a LAN port. If your provider uses PPPoE, check the PPPoE username and password) Tj
+/F1 11 Tf 1 0 0 1 56 696.1 Tm (under Internet > Connection. If the problem continues, contact your internet service) Tj
+/F1 11 Tf 1 0 0 1 56 680.1 Tm (provider to confirm that the line is active.) Tj
+/F2 13 Tf 1 0 0 1 56 661.3 Tm (9.2 Wi-Fi keeps disconnecting or is slow) Tj
+/F1 11 Tf 1 0 0 1 56 645.3 Tm (Move the router to a central location away from interference \(see section 4.4\). Update) Tj
+/F1 11 Tf 1 0 0 1 56 629.4 Tm (to the latest firmware. Set the 2.4 GHz channel manually to 1, 6 or 11 \(section 5.3\).) Tj
+/F1 11 Tf 1 0 0 1 56 613.4 Tm (For devices that drop the connection, turn off Smart Connect and connect them to the) Tj
+/F1 11 Tf 1 0 0 1 56 597.5 Tm (2.4 GHz network directly.) Tj
+/F2 13 Tf 1 0 0 1 56 578.6 Tm (9.3 Forgot the administrator password) Tj
+/F1 11 Tf 1 0 0 1 56 562.7 Tm (The administrator password cannot be recovered. Perform a factory reset \(section 8\) and) Tj
+/F1 11 Tf 1 0 0 1 56 546.7 Tm (set up the router again.) Tj
+/F2 13 Tf 1 0 0 1 56 527.9 Tm (9.4 Cannot open the web interface) Tj
+/F1 11 Tf 1 0 0 1 56 511.9 Tm (Make sure your computer is connected to the router, then try http://192.168.50.1) Tj
+/F1 11 Tf 1 0 0 1 56 496.0 Tm (instead of netpro.home. Disable VPN software and clear the browser cache.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 11 of 14) Tj
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 1884 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (10 Error Codes) Tj
+/F1 11 Tf 1 0 0 1 56 746.8 Tm (Error codes appear in the NetPro Home app and in the web interface under System > Log.) Tj
+/F1 11 Tf 1 0 0 1 56 730.9 Tm (E-101 WAN cable not detected: connect the modem to the blue WAN port and check the) Tj
+/F1 11 Tf 1 0 0 1 56 714.9 Tm (cable.) Tj
+/F1 11 Tf 1 0 0 1 56 699.0 Tm (E-102 PPPoE authentication failed: the PPPoE username or password is wrong. Re-enter) Tj
+/F1 11 Tf 1 0 0 1 56 683.0 Tm (the credentials from your internet service provider.) Tj
+/F1 11 Tf 1 0 0 1 56 667.1 Tm (E-103 No IP address from the modem: restart the modem, wait 2 minutes, then restart the) Tj
+/F1 11 Tf 1 0 0 1 56 651.1 Tm (router.) Tj
+/F1 11 Tf 1 0 0 1 56 635.2 Tm (E-201 Wireless radio overheating: the router reduced transmit power. Improve) Tj
+/F1 11 Tf 1 0 0 1 56 619.2 Tm (ventilation and keep the router away from heat sources.) Tj
+/F1 11 Tf 1 0 0 1 56 603.3 Tm (E-202 Too many connected devices: more than 64 devices are connected. Disconnect unused) Tj
+/F1 11 Tf 1 0 0 1 56 587.3 Tm (devices or enable the guest network for visitors.) Tj
+/F1 11 Tf 1 0 0 1 56 571.4 Tm (E-301 Firmware verification failed: the firmware is damaged, usually after an) Tj
+/F1 11 Tf 1 0 0 1 56 555.4 Tm (interrupted update. Hold the RESET button while powering on the router for 30 seconds) Tj
+/F1 11 Tf 1 0 0 1 56 539.5 Tm (to start recovery mode, then upload the firmware again from) Tj
+/F1 11 Tf 1 0 0 1 56 523.5 Tm (http://192.168.50.1/recovery. If the LED stays solid red, contact support for a) Tj
+/F1 11 Tf 1 0 0 1 56 507.6 Tm (replacement.) Tj
+/F1 11 Tf 1 0 0 1 56 491.6 Tm (E-401 USB storage error: the drive is not formatted as FAT32, exFAT or NTFS, or it) Tj
+/F1 11 Tf 1 0 0 1 56 475.7 Tm (draws more than 900 mA.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 12 of 14) Tj
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 1445 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (11 Warranty and Support) Tj
+/F2 13 Tf 1 0 0 1 56 743.9 Tm (11.1 Limited warranty) Tj
+/F1 11 Tf 1 0 0 1 56 728.0 Tm (NetPro warrants the X200 against defects in materials and workmanship for 2 years from) Tj
+/F1 11 Tf 1 0 0 1 56 712.0 Tm (the date of purchase \(3 years in the European Union\). The warranty does not cover) Tj
+/F1 11 Tf 1 0 0 1 56 696.1 Tm (damage from lightning, liquid, drops, unauthorized repairs, or use of a non-original) Tj
+/F1 11 Tf 1 0 0 1 56 680.1 Tm (power adapter.) Tj
+/F1 11 Tf 1 0 0 1 56 664.2 Tm (To make a warranty claim you need the proof of purchase and the serial number \(S/N\)) Tj
+/F1 11 Tf 1 0 0 1 56 648.2 Tm (printed on the label on the bottom of the router.) Tj
+/F2 13 Tf 1 0 0 1 56 629.4 Tm (11.2 Returns) Tj
+/F1 11 Tf 1 0 0 1 56 613.4 Tm (Products bought directly from the NetPro online store can be returned within 30 days in) Tj
+/F1 11 Tf 1 0 0 1 56 597.5 Tm (the original packaging for a full refund.) Tj
+/F2 13 Tf 1 0 0 1 56 578.6 Tm (11.3 Contact support) Tj
+/F1 11 Tf 1 0 0 1 56 562.7 Tm (Phone support is available Monday to Friday, 8:00 to 20:00 CET, at +1-800-555-0142.) Tj
+/F1 11 Tf 1 0 0 1 56 546.7 Tm (Chat and email support \(support@netpro.example\) are available 24/7. Have the serial) Tj
+/F1 11 Tf 1 0 0 1 56 530.8 Tm (number and firmware version ready.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 13 of 14) Tj
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 813 >>
+stream
+BT
+/F2 16 Tf 1 0 0 1 56 762.8 Tm (Appendix A Regulatory Information) Tj
+/F1 11 Tf 1 0 0 1 56 746.8 Tm (The NetPro X200 complies with Part 15 of the FCC Rules and with the EU Radio Equipment) Tj
+/F1 11 Tf 1 0 0 1 56 730.9 Tm (Directive 2014/53/EU. The full declaration of conformity is available at) Tj
+/F1 11 Tf 1 0 0 1 56 714.9 Tm (support.netpro.example/doc.) Tj
+/F1 11 Tf 1 0 0 1 56 699.0 Tm (In the 5150 to 5350 MHz band the device is restricted to indoor use in the EU, UK,) Tj
+/F1 11 Tf 1 0 0 1 56 683.0 Tm (Switzerland and Turkey.) Tj
+/F1 11 Tf 1 0 0 1 56 667.1 Tm (Dispose of the router at an electronic waste collection point. Do not throw it away) Tj
+/F1 11 Tf 1 0 0 1 56 651.1 Tm (with household waste.) Tj
+/F1 9 Tf 1 0 0 1 56 36 Tm (NetPro X200 User Manual | NP-X200-UM-EN rev C | Page 14 of 14) Tj
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 32 0 R >>
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000212 00000 n 
+0000000309 00000 n 
+0000000411 00000 n 
+0000000502 00000 n 
+0000001780 00000 n 
+0000001916 00000 n 
+0000003139 00000 n 
+0000003275 00000 n 
+0000004692 00000 n 
+0000004830 00000 n 
+0000006395 00000 n 
+0000006533 00000 n 
+0000007944 00000 n 
+0000008082 00000 n 
+0000009538 00000 n 
+0000009676 00000 n 
+0000011432 00000 n 
+0000011570 00000 n 
+0000012890 00000 n 
+0000013028 00000 n 
+0000014372 00000 n 
+0000014510 00000 n 
+0000015859 00000 n 
+0000015997 00000 n 
+0000017790 00000 n 
+0000017928 00000 n 
+0000019865 00000 n 
+0000020003 00000 n 
+0000021501 00000 n 
+0000021639 00000 n 
+0000022504 00000 n 
+trailer
+<< /Size 34 /Root 1 0 R /Info 5 0 R >>
+startxref
+22642
+%%EOF
